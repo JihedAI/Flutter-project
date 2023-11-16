@@ -1,4 +1,4 @@
-# malek
+# Flutter Project of an app with a timer
 
 A new Flutter project.
 
