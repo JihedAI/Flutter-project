@@ -1,4 +1,4 @@
-# Flutter Project of an app with a timer
+# Demo Flutter Project
 
 A new Flutter project.
 
